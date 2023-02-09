@@ -10,8 +10,8 @@ I have been developing since 2020. Starting with learning python to write parser
 
 ### 🤝 Contact me:
 
-<a href="https://t.me/soohno"><img align="left" src="https://raw.githubusercontent.com/IMeetSpace/IMeetSpace/main/images/Telegram.png" alt="telegram" width="21px"/></a>
-<a href="mailto:nesterovich.nikolai@mail.ru"><img align="left" src="https://raw.githubusercontent.com/IMeetSpace/IMeetSpace/main/images/Gmail.png" alt="mail" width="21px"/></a>
+<a href="https://t.me/soohno"><img align="left" src="https://raw.githubusercontent.com/IMeetSpace/IMeetSpace/master/images/Telegram.png" alt="telegram" width="21px"/></a>
+<a href="mailto:nesterovich.nikolai@mail.ru"><img align="left" src="https://raw.githubusercontent.com/IMeetSpace/IMeetSpace/master/images/Gmail.png" alt="mail" width="21px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
