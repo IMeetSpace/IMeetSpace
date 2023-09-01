@@ -17,12 +17,10 @@ I have been developing since 2020. Starting with learning python to write parser
 ## 🔭 I'm currently working on
 
 - CSS skill
-- My graduate work: freelancing website
 
 ## 🌱 I'm currently learning
 
 - React
-- jQuery
 - Bootstrap
 
 ## 💼 Technical Skills
